@@ -40,6 +40,6 @@ All the images I've downloaded are in the example_images repo. (图片样例在e
 ***
 Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
 Thanks a lot! (谢谢充电！)       
-<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/wechat_charge.png" width="60"  alt="wechat_pay"/>
-<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/alipay_charge.jpg" width="60"  alt="ali_pay"/><br/>
+<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/wechat_charge.png" width="100"  alt="wechat_pay"/>
+<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/alipay_charge.jpg" width="100"  alt="ali_pay"/><br/>
 
