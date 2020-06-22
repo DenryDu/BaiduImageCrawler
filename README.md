@@ -34,12 +34,12 @@ python3 static_flip_crawler.py
 ```
 
 ### Examples (下载完成图片样例):
-All the images I've downloaded is in the example_images repo. (图片样例在example_images文件夹里)
+All the images I've downloaded are in the example_images repo. (图片样例在example_images文件夹里)
 
 
 ***
-Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)
-Thanks a lot! (谢谢充电！)
-![wechatpay]()
-![alipay]()
+Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
+Thanks a lot! (谢谢充电！)       
+![wechatpay](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/wechat_charge.png)
+![alipay](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/alipay_charge.jpg)
 
