@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta http-equiv="refresh" content="10">
+  <title>安全检查中...</title>
+  <style type="text/css">
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 100%;}
+    h1 {font-size: 1.5em; color: #404040; text-align: center;}
+    p {font-size: 1em; color: #404040; text-align: center; margin: 10px 0 0 0;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 20px;}
+  </style>
+
+    <script type="text/javascript">
+  //<![CDATA[
+  (function(){
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+    b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+    
+    b(function(){
+      var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+      var cookieSupportInfix=cookiesEnabled?'/nocookie':'/cookie';
+      var a = document.getElementById('yjs-content');a.style.display = 'block';
+      var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+      var trkjs = isIE ? new Image() : document.createElement('img');
+      trkjs.setAttribute("src", "/cdn-cgi/images/trace/baidu-jschal/js"+cookieSupportInfix+"/transparent.gif?ray=5a71ec8959d44768");
+      trkjs.id = "trk_jschal_js";
+      trkjs.setAttribute("alt", "");
+      document.body.appendChild(trkjs);
+      
+      setTimeout(function(){
+        var s,t,o,p, b,r,e,a,k,i,n,g,f, ILWBCUe={"Nb":+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(+!![]))/+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!![])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]))};
+        g = String.fromCharCode;
+        o = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+        e = function(s) {
+          s += "==".slice(2 - (s.length & 3));
+          var bm, r = "", r1, r2, i = 0, r3 = '<span class="cf-error-code">1020</span>';
+          for (; i < s.length;) {
+              bm = o.indexOf(s.charAt(i++)) << 18 | o.indexOf(s.charAt(i++)) << 12
+                      | (r1 = o.indexOf(s.charAt(i++))) << 6 | (r2 = o.indexOf(s.charAt(i++)));
+              r += r1 === 64 ? g(bm >> 16 & 255)
+                      : r2 === 64 ? g(bm >> 16 & 255, bm >> 8 & 255)
+                      : g(bm >> 16 & 255, bm >> 8 & 255, bm & 255);
+          }
+          return r;
+        };
+        t = document.createElement('div');
+        t.innerHTML="<a href='/'>x</a>";
+        t = t.firstChild.href;r = t.match(/https?:\/\//)[0];
+        t = t.substr(r.length); t = t.substr(0,t.length-1); k = 'ShDLcOBb';
+        a = document.getElementById('jschl+answer'.replace('+', '-'));
+        f = document.getElementById('challenge-form');
+        ;ILWBCUe.Nb*=+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]))/+((!+[]+(!![])+!![]+!![]+[])+(!+[]+(!![])-[])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]));ILWBCUe.Nb+=+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]))/+((!+[]+(!![])+!![]+!![]+!![]+[])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]));k+=+((!+[]+(!![])-[]+[]));ILWBCUe.Nb+=function(p){var p = eval(eval(e("ZG9jdW1l")+(undefined+"")[1]+(true+"")[0]+(+(+!+[]+[+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+[!+[]+!+[]]+[+[]])+[])[+!+[]]+g(103)+(true+"")[3]+(true+"")[0]+"Element"+g(66)+(NaN+[Infinity])[10]+"Id("+g(107)+")."+e("aW5uZXJIVE1M"))); return +(p)}();ILWBCUe.Nb+=+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![]+!![])+(+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(+!![]))/(+(+((!+[]+(!![])+!![]+[])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])-[])+(+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]-(!![]))))+(function(p){return eval((true+"")[0]+".ch"+(false+"")[1]+(true+"")[1]+Function("return escape")()(("")["italics"]())[2]+"o"+(undefined+"")[2]+(true+"")[3]+"A"+(true+"")[0]+"("+p+")")}(+((!+[]+(!![])+!![]+!![]+!![]+[])))));ILWBCUe.Nb+=+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]-(!![]))+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]))/+((+!![]+[])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]));a.value = (+ILWBCUe.Nb).toFixed(10); '; 121'
+        f.action += location.hash;
+        f.submit();
+      },2000); /*eoc*/
+      
+    }, false);
+  })();
+  //]]>
+  </script>
+  <script type="text/javascript"  src="https://captcha.su.baidu.com/anti-bot/mfcd.js">
+  </script>
+  
+
+</head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tr>
+      <td align="center" valign="middle">
+          <div class="yjs-browser-verification yjs-im-under-attack">
+  <noscript><h1 data-translate="turn_on_js" style="color:#bd2426;">请打开浏览器的javascript，然后刷新浏览器</h1></noscript>
+  <div id="yjs-content" style="display:none">
+    <div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1>dginfo.com <span data-translate="checking_browser">浏览器安全检查中...</span></h1>
+    <p data-translate="process_is_automatic"></p>
+    <div id="no-cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">请启用Cookies并重新加载页面。</p>
+    </div>
+    <p data-translate="allow_2_secs">还剩 2 秒&hellip;</p>
+  </div>
+  <form class="challenge-form" id="challenge-form" action="/UpFile/shop/2014/7/3/images/201473154319705.jpg?__cf_chl_jschl_tk__=e662541efb3bf4a83b39d673f9d03e45b117b846-1592786489-0-AaxoSOdK7ygIbApyGsv9bxfTwX1Wxp1qKKRpolx4YDicAtGU0XZYjvsO0yKcG018-gAfHKYNxfbcr45HQS6GJTtmerPBJbcR6MAcCQkwYtzcPmq7BwTCtgb67vTXFFFJsZGgQ240lxirgrxC7xgNu5KyUf35eaaxZvGgKi1a_TxBn8f0r9T7Bc8VfKiwBjLMx9706iohnF7yUc6gYiRizs694RT1Ph6R7X5vJDvZZDs1e-JstrbgJDQfKYY4k0t5lRRz7I29yBhDVPdqit0ZV5bE2l9ejfCayK2ySEx06PENZYLm1B40oR5JPc3JJsLXu8HA0yAB53zmZcdAcRU4ZP0" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="r" value="4360688619f5fe9c6108186a482f8771fa1e4741-1592786489-0-AUM7tgkZWd5oU/7Azf8ApJWv5Fj/SuRAVDpQFFccdvZ0dQrJjcVDrf7OoZ/+aNf2L4Sq47Q4PHKZXOVVZpEF+3PNqQ5lF2b3pJFmlGw85epUnLGOCxHj6S3zpEKdpVwithULUIuVU3/kOZs05Zln6V7unnTfuiIJloQo9sfw3hEwzAMi50pMOYQGmc5cRs/DBdreKYQu6affx90pJDmW2FT5+5GwCU7NzqUJ9BS8izx77UOwdVxJAGQzpPPH2oSuJsRNljqDEcWd4geq3CP+hoanOxrne9xutpW/sbV9Tbe1ZMpl9giwMnRy0QTi+u8DDyVzZh36VrbbObuGsJv1EHoXe7UhKZzMpGyynFGS4yTXYok9eBRMxq3Og8142zrHOWt7zyDPqSEqrDRoScMhqVlSBE6R9TtOYCrmvibbxUJASs9qV0XYGXtehLK8D7PpnEI9/tKvTjmFVszEQKUu+vLwLAIuYmiKGGxCOBzkj4hY7tUc9tdljsTCMoEJQEgh4dVBvMMVOFWzlT3jG3Q+/Ow="/>
+    <input type="hidden" value="98758a1584647ca08f4e6fb2feff4940" id="jschl-vc" name="jschl_vc"/>
+    <!-- <input type="hidden" value="2a32f45993d10ec8781ba437a268734f" id="jschl-vc" name="jschl_vc"/> -->
+    <input type="hidden" name="pass" value="1592786491.814-T1WMX9YDyU"/>
+    <input type="hidden" id="jschl-answer" id="jschl-answer" name="jschl_answer"/>
+  </form>
+  <div style="display:none;visibility:hidden;">
+    <div id="ShDLcOBb2">+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]))/+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])-[])+(!+[]+(!![])+!![]+!![]+!![]+!![])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]))</div><div id="ShDLcOBb1">+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]-(!![]))+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])-[])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![]))/+((!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![])+(!+[]+(!![])+!![])+(!+[]+(!![])+!![]+!![]+!![])+(!+[]+(!![])+!![]+!![]+!![]+!![]+!![]+!![])+(!+[]+(!![])-[]))</div>
+  </div>
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/baidu-jschal/nojs/transparent.gif?ray=5a71ec8959d44768')"> </div>
+</div>
+
+
+          <div class="attribution"><a href="http://su.baidu.com/" target="_blank" style="font-size: 12px;"></a></div>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
