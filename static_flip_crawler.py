@@ -1,3 +1,9 @@
+#*
+#* Author: DenryDu 
+#* Time: 2020/06/23 16:12:56
+#* Description: crawl images from baidu with num check, using /flip path
+#*
+
 # -*- coding:utf-8 -*-
 import re
 import requests

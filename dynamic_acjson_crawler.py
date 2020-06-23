@@ -1,3 +1,8 @@
+#*
+#* Author: DenryDu 
+#* Time: 2020/06/23 16:14:04
+#* Description: quickly and stably crawl images from baidu images, using /acjson path
+#*
 import requests
 from bs4 import BeautifulSoup
 import re
