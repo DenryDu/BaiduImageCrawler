@@ -1,10 +1,14 @@
 # BaiduImageCrawler
 ![](https://img.shields.io/badge/language-python-green.svg)  ![](https://img.shields.io/badge/BaiduImageCrawler-v1.0.4-519dd9.svg)
 
-Baidu Image Crawler, which is based on python3 百度图片爬虫，基于python3 
-For personal use, share with you guys 个人学习开发用，适用于计算机视觉项目准备数据集用
+Baidu Image Crawler, which is based on python3 百度图片爬虫，基于python3  
+
+For personal use, share with you guys 个人学习开发用，适用于计算机视觉项目准备数据集用         
+
 Including check of image num, have both dynamic and static way to crawl 包含图片数量验证，以及爬取动态链接和静态链接两种方式
+
 More stable, more convenient, download with batch_size 30 提高了爬虫的容错率、稳定性,每30个一批进行图片下载
+
 Naming with fixed size, easy to sort by file manager 爬取图片命名兼顾考虑了文件管理器排序规则，通过定长命名（例如：00001）这种以图片需求总数位数为长度、其余位填充零的方式实现图片的有序排列   
 ## Table of Contents
 - [Background](#background)
